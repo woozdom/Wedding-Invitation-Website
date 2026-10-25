@@ -714,10 +714,8 @@ nav a:focus-visible {
     border-bottom-color: #d7c9ff;
 }
 
-
-
 /* ===== CEREMONY & RECEPTION PHOTO CARDS: FIXED ===== */
-/* More specific than .gallery-card, so the figure won't stretch to 100% height. */
+
 #details .gallery-card.venue-photo {
     width: 100%;
     max-width: 340px;
